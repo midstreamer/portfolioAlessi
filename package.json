@@ -1,9 +1,9 @@
 {
-  "name": "create-react-portfolio",
+  "name": "portfolioAlessi",
   "version": "0.1.0",
-  "author": "Bruce",
+  "author": "Chad",
   "license": "MIT",
-  "homepage": "http://brucedev.net",
+  "homepage": "",
   "dependencies": {
     "axios": "^0.17.1",
     "babel-polyfill": "^6.26.0",
