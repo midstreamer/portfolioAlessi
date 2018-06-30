@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "author": "Chad",
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://midstreamer.github.io/portfolioAlessi/",
   "dependencies": {
     "axios": "^0.17.1",
     "babel-polyfill": "^6.26.0",

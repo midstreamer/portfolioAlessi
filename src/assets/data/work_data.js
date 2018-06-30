@@ -43,7 +43,7 @@ export default [
         info: 'This is my portfolio built using React, Materialize framework for the design.',
         img: portfolio,
         alt: 'Portfolio',
-        codeLink: "",
+        codeLink: "https://github.com/midstreamer/portfolioAlessi",
         demoLink: ""
     },
     {   name: 'Goodtimes Movie Search App',
