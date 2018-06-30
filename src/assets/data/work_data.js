@@ -12,7 +12,7 @@ export default [
         img: mongodb,
         alt: 'MongoDB',
         codeLink: "https://github.com/midstreamer/Mongodb_homework",
-        demoLink: "https://git.heroku.com/vast-cove-16118.git"
+        demoLink: ""
     },
     {
         name: 'Yaatra - Travel App',
@@ -28,7 +28,7 @@ export default [
         img: myreads,
         alt: 'My reads',
         codeLink: "https://github.com/midstreamer/udacityReactApp",
-        demoLink: ""
+        demoLink: "https://serene-wave-35554.herokuapp.com/"
     },
     {   
         name: 'React-Clicky-Game',
@@ -44,7 +44,7 @@ export default [
         img: portfolio,
         alt: 'Portfolio',
         codeLink: "https://github.com/midstreamer/portfolioAlessi",
-        demoLink: ""
+        demoLink: "https://secure-sands-62961.herokuapp.com/"
     },
     {   name: 'Goodtimes Movie Search App',
         info: 'This is a movie search app using using Moviedb API, Youtube API, and NY Times API. The application allows users to return movie reviews and trailers for the movies that they are interested.',
